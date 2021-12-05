@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "leyUvJnIT5l1M16Oes9IErmxbLIb3FJxEeP/+TjGk8f9BxmfzbPfEGC/uoj3mnQqGv71JHQ1+XlWJm/m35lybA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bonda\\Documents\\GitHub\\CSharpLabs\\CSharpLabs\\Lab_12\\Lab_12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bonda\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\bonda\\.nuget\\packages\\pixieditor.colorpicker\\3.1.0\\pixieditor.colorpicker.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
